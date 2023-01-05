@@ -1,17 +1,42 @@
-### Hi there 👋
-왜 안될까요 하.. 이거 갑자기 되면 안되는데
+### 저는 김병찬이라고 합니다! 😄
 
-<!--
-**soft0725/soft0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-Here are some ideas to get you started:
+- 딥러닝에 관심이 많습니다.
+- 딥러닝에서는 객체 탐지를 주로 공부하고 있습니다.
+- 데이터 분석도 같이 공부하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 사용 언어
+
+<div>
+	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /
+</div>
+
+<br>
+<br>
+  
+### 사용 프레임워크, 툴 
+  
+<div>
+	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /><br>
+   
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+</div>
+ 
+<br>
+<br>
+  
+### 연락 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:byungchan0725@gmail.com) 
