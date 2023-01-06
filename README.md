@@ -5,8 +5,13 @@
 - 딥러닝에 관심이 많습니다.
 - 딥러닝에서는 객체 탐지를 주로 공부하고 있습니다.
 - 데이터 분석도 같이 공부하고 있습니다.
+<a href="https://velog.io/@chan_7">
+    <img 
+        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@chan_7"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-<br>
+<br><br>
 
 ### 사용 언어
 
