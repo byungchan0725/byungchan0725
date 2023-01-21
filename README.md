@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-- 머신러닝, 딥러닝에 관심이 많습니다.
-- 딥러닝에서는 객체 탐지를 주로 공부하고 있습니다.
+- 머신러닝에 관심이 많습니다.
+- 머신러닝을 주로 공부하고 있습니다.
 - 데이터 분석도 같이 공부하고 있습니다.
 <a href="https://velog.io/@chan_7">
     <img 
